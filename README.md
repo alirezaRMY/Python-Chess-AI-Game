@@ -74,6 +74,19 @@ Tested with real chess players:
 
 ---
 
+## 🚀 Future Improvements
+
+- **Online Multiplayer** — allow two players to play against each other over the network
+- **Adjustable AI Difficulty** — let the player choose between Easy, Medium, and Hard before the game starts
+- **Opening Book** — preload common chess openings so the AI plays more naturally in the early game
+- **Better AI Evaluation** — add king safety, pawn structure analysis, and endgame tables for stronger play
+- **Move Timer / Time Control** — add a chess clock with time limits per player (e.g. 5 min blitz)
+- **Save & Load Game** — save a game in progress and resume it later
+- **Move Hints** — optional hint button that suggests the best move for beginners
+- **Sound Effects** — add sounds for moves, captures, and checkmate
+
+---
+
 ## 🖼️ Screenshots & Demo
 
 ### Main Menu
