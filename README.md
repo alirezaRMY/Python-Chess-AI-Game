@@ -147,7 +147,8 @@ Chess/
 ├── ChessMain2.py    # Player vs Player game loop
 ├── ChessMain3.py    # AI vs AI game loop
 ├── Button.py        # Entry point / main menu
-├── predisplay.py    # Pre-game display screens
+├── predisplay.py    # Pre-game display screen (Player vs AI)
+├── predisplay2.py   # Pre-game display screen (Player vs Player)
 └── __init__.py
 ```
 
