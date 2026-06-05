@@ -173,7 +173,7 @@ Chess/
 Bachelor's Degree Final Project  
 MSc Student in Communication Systems and Networks — Tampere University
 
-[![GitHub](https://img.shields.io/badge/GitHub-alirezaRMY-181717?logo=github)](https://github.com/alirezaRMY)
+[![GitHub](https://img.shields.io/badge/GitHub-AlirezaRamyad-181717?logo=github)](https://github.com/AlirezaRamyad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/alireza-ramyad)
 
 ---
