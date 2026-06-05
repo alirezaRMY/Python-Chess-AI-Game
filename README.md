@@ -64,7 +64,7 @@ Tested with real chess players:
   This is expected behavior — wait for the current move to finish computing, 
   then close the window.
 
-  ---
+---
 
 ## ✨ Features
 
