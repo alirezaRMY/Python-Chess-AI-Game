@@ -77,16 +77,33 @@ Tested with real chess players:
 ## 🖼️ Screenshots & Demo
 
 ### Main Menu
-![Menu](gifs/Play%20VS%20AI%20game%20only.gif)
-
-### Player vs AI
-![Player vs AI](gifs/Player%20VS%20AI%20with%20score%20board.gif)
-
-### AI vs AI
-![AI vs AI](gifs/AI%20vs%20AI%20with%20score%20board.gif)
+![Main Menu](figures/Main%20menu.png)
 
 ### Player vs Player
+![Player vs Player](figures/PvP.png)
+
+### Game Board
+![Game Board](figures/Board.png)
+
+---
+
+### 🎬 Gameplay Demos
+
+### Player vs AI (close-up)
+![Player vs AI](gifs/Play%20VS%20AI%20game%20only.gif)
+
+### Player vs Player (close-up)
 ![PvP](gifs/PVP.gif)
+
+### Player vs AI — with terminal output
+> The terminal shows the AI evaluating and scoring every possible move in real time.
+
+![Player vs AI with scoreboard](gifs/Player%20VS%20AI%20with%20score%20board.gif)
+
+### AI vs AI — with terminal output
+> Both AIs continuously calculate move scores. This demo shows the engine thinking out loud after each move.
+
+![AI vs AI with scoreboard](gifs/AI%20vs%20AI%20with%20score%20board.gif)
 
 ---
 
@@ -140,6 +157,7 @@ Chess/
 
 **Alireza Ramyad**  
 Bachelor's Degree Final Project
+MSc Student in Communication Systems and Networks — Tampere University
 
 ---
 
