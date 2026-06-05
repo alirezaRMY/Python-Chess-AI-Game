@@ -156,7 +156,7 @@ Chess/
 ## 👨‍💻 Author
 
 **Alireza Ramyad**  
-Bachelor's Degree Final Project
+Bachelor's Degree Final Project 
 MSc Student in Communication Systems and Networks — Tampere University
 
 ---
