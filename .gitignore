@@ -1,1 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
 
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Virtual environment
+venv/
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
