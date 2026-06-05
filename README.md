@@ -59,10 +59,7 @@ Tested with real chess players:
 
 ## ⚠️ Known Limitations
 
-- **AI vs AI mode:** The AI is continuously computing moves, so closing the game 
-  mid-game may cause the program to crash or freeze for a few seconds before closing. 
-  This is expected behavior — wait for the current move to finish computing, 
-  then close the window.
+- **AI vs AI mode:** The AI is continuously computing moves, so closing the game mid-game may cause the program to crash or freeze for a few seconds before closing. This is expected behavior — wait for the current move to finish computing, then close the window.
 
 ---
 
@@ -110,10 +107,15 @@ Then run:
 python Chess/Button.py
 ```
 
-To increase AI difficulty (slower but smarter), open `Chess/ChessAI.py` and change:
+To tweak AI speed vs intelligence, open `Chess/ChessAI.py` and change:
+
 ```python
-DEPTH = 3  # increase to 4 or 5 for harder AI (significantly slower)
+DEPTH = 2  # smoother and faster, but slightly less intelligent
+DEPTH = 3  # default — smart and fast enough for smooth gameplay
+DEPTH = 4  # smarter but noticeably slower
 ```
+
+> Higher depth = smarter AI but exponentially longer thinking time.
 
 ---
 
@@ -124,7 +126,9 @@ Chess/
 ├── images/          # Piece images (PNG)
 ├── ChessEngine.py   # Game logic, move validation, all chess rules
 ├── ChessAI.py       # AI engine (Negamax + Alpha-Beta Pruning)
-├── ChessMain.py     # Main game loop and rendering
+├── ChessMain.py     # Player vs AI game loop
+├── ChessMain2.py    # Player vs Player game loop
+├── ChessMain3.py    # AI vs AI game loop
 ├── Button.py        # Entry point / main menu
 ├── predisplay.py    # Pre-game display screens
 └── __init__.py
@@ -134,7 +138,7 @@ Chess/
 
 ## 👨‍💻 Author
 
-**Alireza Ramyad**
+**Alireza Ramyad**  
 Bachelor's Degree Final Project
 
 ---
