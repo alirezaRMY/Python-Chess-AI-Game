@@ -57,6 +57,15 @@ Tested with real chess players:
 
 ---
 
+## ⚠️ Known Limitations
+
+- **AI vs AI mode:** The AI is continuously computing moves, so closing the game 
+  mid-game may cause the program to crash or freeze for a few seconds before closing. 
+  This is expected behavior — wait for the current move to finish computing, 
+  then close the window.
+
+  ---
+
 ## ✨ Features
 
 - Clean, animated piece movement
