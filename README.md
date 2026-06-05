@@ -18,11 +18,10 @@ A fully functional chess game built with Python and Pygame, featuring three game
 
 You do **not** need Python or any other software installed on your computer.
 
-1. Download the latest release from the [Releases page](https://github.com/alirezaRMY/Python-Chess-AI-Game/releases/latest)
-2. Extract / copy the **Chess** folder to your computer
-3. Open the folder: `Chess` → `Chess`
-4. Scroll down and find the **application file** (`.exe`)
-5. Double-click it — the game starts immediately!
+1. Download **Chess.zip** from the [Releases page](https://github.com/alirezaRMY/Python-Chess-AI-Game/releases/latest)
+2. Extract it anywhere on your computer
+3. Navigate to: `Chess → Chess → dist → ChessGame`
+4. Double-click **ChessGame.exe** to play!
 
 > ✅ No Python interpreter needed. No pip install. Just download and play.
 
